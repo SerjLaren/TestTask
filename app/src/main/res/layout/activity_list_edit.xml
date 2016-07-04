@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <EditText
+        android:id="@+id/editTextListItem"
+        android:layout_marginTop="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="20"
+        android:textSize="20sp"
+        android:maxLength="20"
+        android:inputType="textPersonName"
+        android:hint="@string/hintEditText"/>
+    <LinearLayout
+        android:orientation="horizontal"
+        android:gravity="bottom"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <Button
+            android:id="@+id/btnRevert"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/titleBtnRevert"
+            android:textSize="17sp"
+            android:padding="20dp"
+            android:theme="@style/MyFragButton"
+            android:textColor="@color/white"/>
+        <Button
+            android:id="@+id/btnDone"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/titleBtnDone"
+            android:textSize="17sp"
+            android:padding="20dp"
+            android:theme="@style/MyFragButton"
+            android:textColor="@color/white"/>
+    </LinearLayout>
+</LinearLayout>

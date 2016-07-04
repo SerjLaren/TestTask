@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TestTask</string>
+    <string name="mainMenuSettings">Settings</string>
+    <string name="settingsInfo">After changing language restart app!</string>
+    <string name="titleSetDisplay">Select display:</string>
+    <string name="titleBtnGoToDisplay">Start</string>
+    <string name="titleSelectLang">Select Language</string>
+    <string name="summarySelectLang">Select application language</string>
+    <string name="dialogSelectLang">Set Language:</string>
+    <string name="toolbarBtnAdd">Add new</string>
+    <string name="noDataStr">No data!</string>
+    <string name="hintEditText">Enter Data</string>
+    <string name="dataEmptyErr">Please, enter data!</string>
+    <string name="titleBtnDone">Done</string>
+    <string name="titleBtnRevert">Revert</string>
+    <string name="alertTitle">Save changes?</string>
+    <string name="alertBtnPositive">Save</string>
+    <string name="alertBtnNegative">No</string>
+    <string name="ctxMenuDelete">Delete</string>
+    <string name="ctxMenuEdit">Edit</string>
+    <string name="btnToMyImageview">Watch it at my ImageView!</string>
+    <string name="noConnStr">Check out connection and click "Restart"</string>
+    <string name="btnRestart">Restart</string>
+    <string name="titleLatitude">Latitude:&#160;</string>
+    <string name="titleLongitude">Longitude:&#160;</string>
+    <string name="noGpsStr">Turn on GPS!</string>
+</resources>

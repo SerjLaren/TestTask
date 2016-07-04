@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        <WebView
+            android:id="@+id/imageWebView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+        </WebView>
+        <Button
+            android:id="@+id/btnToMyImageview"
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:theme="@style/MyFragButton"
+            android:text="@string/btnToMyImageview"
+            android:textColor="@color/white"/>
+    </LinearLayout>
+</ScrollView>

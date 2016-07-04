@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Тестовое задание</string>
+    <string name="mainMenuSettings">Настройки</string>
+    <string name="settingsInfo">После смены языка перезагрузите приложение!</string>
+    <string name="titleSetDisplay">Выберите экран:</string>
+    <string name="titleBtnGoToDisplay">Запустить</string>
+    <string name="titleSelectLang">Выбрать язык</string>
+    <string name="summarySelectLang">Выбрать язык приложения</string>
+    <string name="dialogSelectLang">Выберите:</string>
+    <string name="toolbarBtnAdd">Добавить</string>
+    <string name="noDataStr">Нет данных!</string>
+    <string name="hintEditText">Введите данные</string>
+    <string name="dataEmptyErr">Введите данные!</string>
+    <string name="titleBtnDone">Готово</string>
+    <string name="titleBtnRevert">Отмена</string>
+    <string name="alertTitle">Сохранить изменения?</string>
+    <string name="alertBtnPositive">Сохранить</string>
+    <string name="alertBtnNegative">Нет</string>
+    <string name="ctxMenuDelete">Удалить</string>
+    <string name="ctxMenuEdit">Изменить</string>
+    <string name="btnToMyImageview">Посмотреть на моем ImageView!</string>
+    <string name="noConnStr">Проверьте соединение и нажмите "Рестарт"</string>
+    <string name="btnRestart">Рестарт</string>
+    <string name="titleLatitude">Широта:&#160;</string>
+    <string name="titleLongitude">Долгота:&#160;</string>
+    <string name="noGpsStr">Включите GPS!</string>
+</resources>

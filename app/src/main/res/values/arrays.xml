@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="displays_array">
+        <item>List</item>
+        <item>Scaling</item>
+        <item>Service</item>
+        <item>Map</item>
+    </string-array>
+    <string-array name="main_languages">
+        <item>Русский</item>
+        <item>English</item>
+    </string-array>
+</resources>
